@@ -1,0 +1,46 @@
+@startwbs
+'https://plantuml.com/wbs-diagram
+
+<style>
+node {
+    MaximumWidth 120
+}
+</style>
+
+* Prüfung Ansprüche aus AGG
+** Allgemeines
+*** Anwendbarkeit
+**** Sachlich, § 2 AGG
+**** Persönlich, § 6 AGG
+**** (Zeitlich, § 33 AGG)
+*** Verstoß gegen Benachteilungsverbot
+**** Diskriminierungsmerkmal, § 1 AGG
+**** Art der Benachteiligung, § 3 AGG
+***** Vermutung der Benachteiligung, § 22 AGG
+*** Keine Rechtfertigung, §§ 4, 8, 9, 10 AGG
+*** Durchsetzung
+**** Geldtendmachung, § 15 IV 2
+*****_ schriftliche binnen 2 Monaten
+*****_ ab Kenntnis der Ablehnung
+**** Leistungsklage, § 2 U Nr. 3 ArbGG
+*****_ binnen 3 Monaten
+*****_ ab Geldtendmachung
+** Materieller Schadensersatzanspruch, § 15 I AGG
+***_ AGG verdrängt als lex specialis § 280 BGB
+*** Vertretenmüssen, § 15 I 2 AGG, § 276 BGB
+*** Umfang des Anspruchs
+**** Naturalrestitution § 249 BGB
+*****_ Wiedereinstellung ausgeschlossen, § 15 VI AGG
+**** Differenztheorie
+***** Entgangener Gewinn, § 252
+******_ setzt voraus, dass ohne B. Einstellung erfolgt wäre
+******_ wegen Umfang, § 9 KSchG analog
+***** Frustrierte Aufwendungen, § 284 BGB
+******_ meist nicht gegeben, da Aufwendungen auch ohne Benachteilung erfolgt wären
+
+** Immaterieller Schadensersatzanspruch, § 15 II 1 AGG
+***_ verschuldensunabhängig
+*** Begrenzung auf 3 Monatsgehälter, § 15 II 2
+****_ falls auch ohne B. keine Einstellung erfolgt wäre
+
+@endwbs
